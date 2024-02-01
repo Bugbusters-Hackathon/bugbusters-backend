@@ -1,8 +1,8 @@
 import axios from "axios";
-import { getRandomInt } from "../../utils.js";
+import { filterTheJobArray, getRandomInt, sendRandomdlyAnumberOfElements } from "../../utils.js";
 
 const URL = "https://api.pole-emploi.io/partenaire/offresdemploi/v2/offres/search?codeROME=M1810&departement=75";
-const TOKEN = "N01YuvWLY7F2xO0WqiqIKP48QQU";
+const TOKEN = "cixZ_t1TQ9vg6-yDfBz38-NjGjw";
 
 export class JobDataController {
     getRandomJobs = async (req, res) => {
@@ -17,20 +17,8 @@ export class JobDataController {
                     'Authorization': 'Bearer ' + TOKEN
                 }
             });
-            let dataFilter = response.data.resultats.map((element) => {
-                return {
-                    intitule: element.intitule,
-                    experienceExige: element.experienceExige,
-                    dateCreation: element.dateCreation,
-                    departement: element.lieuTravail.libelle
-                };
-            });
-            let toSend = [];
-            for (let i = 0; i < (number ?? 1); i++) {
-                let randomNumber = getRandomInt(dataFilter.length);
-                toSend.push(dataFilter[randomNumber]);
-            }
-
+            let toSend = sendRandomdlyAnumberOfElements
+                (number, filterTheJobArray(response.data.resultats));
             return res.status(200).json(toSend);
 
         } catch (error) {
