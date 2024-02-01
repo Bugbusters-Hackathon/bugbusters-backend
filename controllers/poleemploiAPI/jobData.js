@@ -1,11 +1,15 @@
 import axios from "axios";
-import { filterTheJobArray, getRandomInt, sendRandomdlyAnumberOfElements } from "../../utils.js";
-
+import { filterTheJobArray, sendRandomdlyAnumberOfElements } from "../../utils.js";
+import {getAccessToken} from "../../getAccessToken.js"
 const URL = "https://api.pole-emploi.io/partenaire/offresdemploi/v2/offres/search?codeROME=M1810&departement=75";
-const TOKEN = "cixZ_t1TQ9vg6-yDfBz38-NjGjw";
-
+const { token, expires_in } = await getAccessToken()
 export class JobDataController {
     getRandomJobs = async (req, res) => {
+       
+        const date = new Date();
+        if (expires_in <= date.getTime()){
+            const { token, expires_in } = await getAccessToken()
+        }
         const { number } = req.query;
         try {
             const response = await axios.get(URL, {
@@ -14,7 +18,7 @@ export class JobDataController {
                     departement: '75'
                 },
                 headers: {
-                    'Authorization': 'Bearer ' + TOKEN
+                    'Authorization': 'Bearer ' + token
                 }
             });
             let toSend = sendRandomdlyAnumberOfElements
