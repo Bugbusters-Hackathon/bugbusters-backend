@@ -1,6 +1,7 @@
 import axios from "axios";
 import { filterTheJobArray, sendRandomdlyAnumberOfElements } from "../../utils.js";
 import {getAccessToken} from "../../getAccessToken.js"
+
 const URL = "https://api.pole-emploi.io/partenaire/offresdemploi/v2/offres/search?codeROME=M1810&departement=75";
 const { token, expires_in } = await getAccessToken()
 export class JobDataController {
