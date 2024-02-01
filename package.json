@@ -3,14 +3,22 @@
   "version": "1.0.0",
   "description": "A repository containing the server-side application code developed for a Hackathon project.",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js  --detectOpenHandles --forceExit"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ],
+    "transform": {}
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.7",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "jest": "^29.7.0"
   }
 }

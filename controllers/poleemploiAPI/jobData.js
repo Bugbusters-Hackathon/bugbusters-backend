@@ -1,5 +1,5 @@
 import axios from "axios";
-import { filterTheJobArray, getRandomInt, sendRandomdlyAnumberOfElements } from "../../utils.js";
+import { filterTheJobArray, sendRandomdlyAnumberOfElements } from "../../utils.js";
 
 const URL = "https://api.pole-emploi.io/partenaire/offresdemploi/v2/offres/search?codeROME=M1810&departement=75";
 const TOKEN = "cixZ_t1TQ9vg6-yDfBz38-NjGjw";
