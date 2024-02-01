@@ -3,4 +3,3 @@ GET http://localhost:3001/jobdata?number=12
 
 ###
 GET https://api.pole-emploi.io/partenaire/offresdemploi/v2/offres/search?codeROME=M1810&departement=75
-Authorization: Bearer cixZ_t1TQ9vg6-yDfBz38-NjGjw
