@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js  --detectOpenHandles --forceExit"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js  --detectOpenHandles --forceExit",
+    "start": "node serverPoleEmploieAPI.js"
   },
   "jest": {
     "testEnvironment": "node",
