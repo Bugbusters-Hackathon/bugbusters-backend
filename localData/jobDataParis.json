@@ -1,0 +1,1088 @@
+{
+  "resultats": [
+    {
+      "id": "168SBCS",
+      "intitule": "IT/TECHNICIEN (NE) JUNIOR (H/F)",
+      "description": "Assurer le support informatique et l'exploitation des systèmes utilisés par nos services internes\n-Assurer le support informatique et  l'exploitation des systèmes que nous mettons à disposition à nos clients\nEffectuer les actions de proximité (Installation, configuration, mise en service) et de supervision demandées dans le cadre des projets et de l'exploitation\nSuivre et proposer les améliorations des processus internes et rédiger des procédures\nGestion de projets clients : suivi du besoin, gestion des livrables, accompagnement et suivi",
+      "dateCreation": "2024-02-01T12:59:59.000Z",
+      "dateActualisation": "2024-02-01T13:00:01.000Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris (Dept.)"
+      },
+      "romeCode": "M1810",
+      "romeLibelle": "Production et exploitation de systèmes d'information",
+      "appellationlibelle": "Adjoint(e) technicien(ne) d'exploitation informatique",
+      "entreprise": {
+        "nom": "DIS-CONNECT SAS",
+        "description": "Nous sommes une entreprise technologique, innovante et internationale, qui accompagne ses clients vers la transformation mobile. Nous mettons la technologie dans la main du personnel de santé afin d'améliorer les conditions de travail et le workflow dans les établissements.",
+        "logo": "https://entreprise.pole-emploi.fr/static/img/logos/CLcY03978alW1JrmEjtzgatlB576pnNV.png",
+        "url": "http://www.dis-connect.fr",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 12 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "2 ans",
+      "formations": [
+        {
+          "niveauLibelle": "Bac+3, Bac+4 ou équivalents",
+          "exigence": "S"
+        }
+      ],
+      "langues": [
+        {
+          "libelle": "Anglais",
+          "exigence": "E"
+        },
+        {
+          "libelle": "Français",
+          "exigence": "E"
+        }
+      ],
+      "competences": [
+        {
+          "code": "102175",
+          "libelle": "Réaliser la maintenance de premier niveau",
+          "exigence": "E"
+        },
+        {
+          "code": "109971",
+          "libelle": "Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives",
+          "exigence": "E"
+        },
+        {
+          "code": "109973",
+          "libelle": "Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",
+          "exigence": "E"
+        },
+        {
+          "code": "113309",
+          "libelle": "Superviser et organiser les travaux d'exploitation/production informatique",
+          "exigence": "S"
+        },
+        {
+          "code": "113831",
+          "libelle": "Gérer un parc informatique",
+          "exigence": "S"
+        },
+        {
+          "code": "116932",
+          "libelle": "Contrôler l'état des stocks",
+          "exigence": "S"
+        },
+        {
+          "code": "123563",
+          "libelle": "Contrôler le déroulement de travaux",
+          "exigence": "S"
+        },
+        {
+          "code": "125971",
+          "libelle": "Définir des besoins en approvisionnement",
+          "exigence": "S"
+        },
+        {
+          "code": "300180",
+          "libelle": "Contrôler la conformité d'un équipement, d'une machine, d'une installation",
+          "exigence": "E"
+        },
+        {
+          "code": "300241",
+          "libelle": "Évaluer la mise en oeuvre d'un projet, plan d'action",
+          "exigence": "S"
+        },
+        {
+          "code": "300579",
+          "libelle": "Communiquer auprès de ses clients internes et externes",
+          "exigence": "S"
+        },
+        {
+          "code": "400184",
+          "libelle": "Gérer et déployer des logiciels à distance",
+          "exigence": "S"
+        },
+        {
+          "code": "400380",
+          "libelle": "Mener un diagnostic ou un test/essai technique",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Mensuel de 1766,92 Euros sur 12 mois",
+        "complement1": "Pc portable"
+      },
+      "dureeTravailLibelle": "35H Travail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "DIS-CONNECT SAS - Mme Woly Bob",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/168SBCS",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/168SBCS"
+      },
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "qualificationCode": "7",
+      "qualificationLibelle": "Technicien",
+      "codeNAF": "70.22Z",
+      "secteurActivite": "70",
+      "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Faire preuve de réactivité",
+          "description": "Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance."
+        },
+        {
+          "libelle": "Faire preuve d'autonomie",
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
+        },
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        }
+      ],
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/168SBCS"
+      },
+      "offresManqueCandidats": false
+    },
+    {
+      "id": "168QRRP",
+      "intitule": "Gestionnaire de parcs informatiques (H/F)",
+      "description": "L'entreprise SECURINFOR est à la recherche d'UN(E) GESTIONNAIRE DE PARC pour intervenir auprès de l'un de ses clients grands comptes à Paris 15eme.\n\nLes missions seront les suivantes :\n\n- MAJ de base de données\n- Suivi des interventions\n- MAJ de bases Excel\n- Préparation de postes de travail",
+      "dateCreation": "2024-01-31T14:52:32.000Z",
+      "dateActualisation": "2024-02-01T16:05:07.000Z",
+      "lieuTravail": {
+        "libelle": "75 - PARIS 15",
+        "latitude": 48.841549,
+        "longitude": 2.294954,
+        "codePostal": "75015",
+        "commune": "75115"
+      },
+      "romeCode": "M1810",
+      "romeLibelle": "Production et exploitation de systèmes d'information",
+      "appellationlibelle": "Technicien / Technicienne informatique",
+      "entreprise": {
+        "nom": "SECURINFOR",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "Contrat à durée indéterminée",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "competences": [
+        {
+          "code": "102175",
+          "libelle": "Réaliser la maintenance de premier niveau",
+          "exigence": "S"
+        },
+        {
+          "code": "109971",
+          "libelle": "Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives",
+          "exigence": "S"
+        },
+        {
+          "code": "109973",
+          "libelle": "Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",
+          "exigence": "S"
+        },
+        {
+          "code": "300184",
+          "libelle": "Apporter une assistance technique",
+          "exigence": "S"
+        },
+        {
+          "code": "300204",
+          "libelle": "Administrer un système d'informations",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 22000,00 Euros à 24000,00 Euros sur 12 mois",
+        "complement1": "Mobile",
+        "complement2": "Pc portable"
+      },
+      "dureeTravailLibelle": "35H Travail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "SECURINFOR - Mme Rachel  COHEN",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/168QRRP",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/168QRRP"
+      },
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "qualificationCode": "5",
+      "qualificationLibelle": "Employé non qualifié",
+      "codeNAF": "70.22Z",
+      "secteurActivite": "70",
+      "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Être à l'écoute, faire preuve d'empathie",
+          "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
+        },
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        },
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        }
+      ],
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/168QRRP"
+      },
+      "offresManqueCandidats": false
+    },
+    {
+      "id": "168QHJK",
+      "intitule": "TECHNICIEN INFORMATIQUE (H/F)",
+      "description": "Dans le cadre d'une compétition sportive, l'entreprise SECURINFOR est à la recherche de TECHNICIEN(NES) informatique, disponible de mi-février à mi-septembre sur différents sites en IDF\n\nLes missions :\n\n- Gestion des incidents N1/N2\n- Assistanat auprès des utilisateurs\n- Gestion des priorités\n- Contact client",
+      "dateCreation": "2024-01-31T11:37:23.000Z",
+      "dateActualisation": "2024-02-01T15:58:11.000Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris (Dept.)"
+      },
+      "romeCode": "M1810",
+      "romeLibelle": "Production et exploitation de systèmes d'information",
+      "appellationlibelle": "Technicien / Technicienne informatique",
+      "entreprise": {
+        "nom": "SECURINFOR",
+        "description": "SECURINFOR est une société française présente depuis 1986 dans le domaine des métiers IT. \nA l origine mainteneur hardware, l Entreprise a su adapter et compléter ses offres de services principalement orientées vers l exploitation des Infrastructures IT.\nDepuis sa création, la volonté de la Direction de SECURINFOR, a été de valoriser l Entreprise par son expertise, l implication de ses collaborateurs et l excellence de ses prestations.",
+        "url": "https://www.securinfor.fr/",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 3 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "langues": [
+        {
+          "libelle": "Anglais",
+          "exigence": "S"
+        }
+      ],
+      "competences": [
+        {
+          "code": "102175",
+          "libelle": "Réaliser la maintenance de premier niveau",
+          "exigence": "S"
+        },
+        {
+          "code": "109971",
+          "libelle": "Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives",
+          "exigence": "S"
+        },
+        {
+          "code": "109973",
+          "libelle": "Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",
+          "exigence": "S"
+        },
+        {
+          "code": "300184",
+          "libelle": "Apporter une assistance technique",
+          "exigence": "S"
+        },
+        {
+          "code": "300204",
+          "libelle": "Administrer un système d'informations",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 22000,00 Euros à 27000,00 Euros sur 12 mois",
+        "complement1": "Chèque repas"
+      },
+      "dureeTravailLibelle": "35H Travail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "SECURINFOR - Mme Julie ALLALI",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/168QHJK",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/168QHJK"
+      },
+      "nombrePostes": 10,
+      "accessibleTH": false,
+      "deplacementCode": "2",
+      "deplacementLibelle": "Ponctuels Zone départementale",
+      "qualificationCode": "7",
+      "qualificationLibelle": "Technicien",
+      "codeNAF": "70.22Z",
+      "secteurActivite": "70",
+      "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Être à l'écoute, faire preuve d'empathie",
+          "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
+        },
+        {
+          "libelle": "Faire preuve d'autonomie",
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
+        },
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        }
+      ],
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/168QHJK"
+      },
+      "offresManqueCandidats": false
+    },
+    {
+      "id": "168GMPP",
+      "intitule": "Agent de Production Informatique F/H (H/F)",
+      "description": "Description de l'entreprise\nCréée en 1984, SITES est une société d'ingénierie spécialisée au service de la performance et de la santé structurelle des infrastructures. Les ingénieurs, experts et techniciens de SITES œuvrent à la maîtrise de la durabilité des actifs structurels exceptionnels, face à leur vieillissement, leur usage, leur exploitation et leur impact sur l'environnement voisin.\nÀ partir d'investigations in-situ sur les structures et ses parties prenantes, d'analyses et de calculs, SITES diagnostique l'état réel des ouvrages, suit leur évolution, préconise et s'assure de la bonne mise en œuvre des remises à niveau pour garantir la sécurité et la pérennité de leur utilisation et éviter toute interruption d'usage inopinée ou réparation coûteuse non anticipée.\nDomaines d'intervention :\n-        Énergies décarbonées (Hydraulique / Nucléaire / Renouvelable)\n-        Infrastructures de transports (Routier / Ferroviaire / Maritime)\n-        Industries sensibles\n-        Patrimoine et monuments historiques\n-        Projets Expérimentaux / Recherche & Développement / Défense\n-        Bâti / Cadre De Vie, Services Publics / Administrations\nL'entreprise intervient à toutes les étapes de la vie d'un ouvrage (conception, construction, exploitation, transformation et destruction) en proposant plusieurs services :\n-        Visites, inspections et expertises\n-        Tests, contrôles, relevés et mesures\n-        Monitoring et instrumentation\n-        Ingénierie et études de pérennité (diagnostics, études de risques, etc.)\n-        Assistance technique aux maîtres d'ouvrage (suivi, coordination et protection)\nDescription du poste\nVous êtes à l'aise avec un ordinateur ? Et vous souhaitez être formé(e) et évoluer dans le secteur des énergies renouvelables ? Cette alternance est faite pour vous !\nCORNIS, filiale du Groupe SITES SAS pionnier de la surveillance de santé structurelle, est une entreprise fondée en 2011 où règne encore un esprit startup et dont le cœur de métier est de fournir à ses clients des solutions innovantes et des techniques d'inspection efficaces pour assurer la maintenance et la gestion de leurs infrastructures et plus particulièrement des parcs éoliens.\nLe poste ?\nSous la direction du Responsable de production, vous participerez à la production semi-automatisée des rapports d'inspection de pales par photographie haute résolution.\nPlus précisément, :\n- Vous vous assurerez du bon déroulement des différentes étapes de la chaine de production informatique, \n- Vous vous assurerez de livrer au client un service de qualité en suivant ses exigences.\nVous travaillerez essentiellement sur ordinateur et utiliserez les logiciels internes Cornis pour réaliser votre mission.\nQualifications\nVous avez une appétence pour les outils informatiques. Motivé(e), vous êtes prêt(e) à apprendre de nouvelles choses Vous êtes rigoureux(se), curieux(se) et à l'écoute de vos interlocuteurs. \nInformations complémentaires\nNous rejoindre, c'est rejoindre une entreprise internationale à taille humaine, leader sur son marché. L'éolien est un secteur d'avenir et nous sommes fiers de contribuer a  son développement. En complément, vous aurez accès à une équipe soudée et disponible qui aura à cœur de te faire monter en compétence.",
+      "dateCreation": "2024-01-24T12:32:22.000Z",
+      "dateActualisation": "2024-01-26T01:41:45.000Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris (Dept.)"
+      },
+      "romeCode": "M1810",
+      "romeLibelle": "Production et exploitation de systèmes d'information",
+      "appellationlibelle": "Chef d'équipe de production informatique",
+      "entreprise": {
+        "nom": "S.I.T.E.S.",
+        "description": "SITES, bureau d'études indépendant créé en 1984, propose et réalise des prestations de service pour contrôler et suivre la tenue et le vieillissement des grandes structures de génie civil, des environnements et des équipements. SITES dispose d'une riche expérience (plus de 5000 investigations dans le monde, sur des tranches nucléaires, des barrages, des ponts, des monuments historiques, des falaises, etc ...), d'équipes d'ingénieurs et de techniciens spécialisés et de technologies innovantes.",
+        "logo": "https://entreprise.pole-emploi.fr/static/img/logos/TyNblwGlc5HTPugdbb2I4ZXQqbxQwwIk.png",
+        "url": "http://www.sites.fr/index.php/fr/",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "Contrat à durée indéterminée",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "competences": [
+        {
+          "code": "102175",
+          "libelle": "Réaliser la maintenance de premier niveau",
+          "exigence": "S"
+        },
+        {
+          "code": "109971",
+          "libelle": "Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives",
+          "exigence": "S"
+        },
+        {
+          "code": "109973",
+          "libelle": "Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",
+          "exigence": "S"
+        },
+        {
+          "code": "300184",
+          "libelle": "Apporter une assistance technique",
+          "exigence": "S"
+        },
+        {
+          "code": "300204",
+          "libelle": "Administrer un système d'informations",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "commentaire": "compétitif",
+        "complement1": "Autre"
+      },
+      "dureeTravailLibelle": "35H Travail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "S.I.T.E.S. - Mme Jennifer NIANZOUTCHI",
+        "coordonnees1": "https://jobs.smartrecruiters.com/Sites/743999962268813-agent-de-production-informatique-f-h",
+        "urlPostulation": "https://jobs.smartrecruiters.com/Sites/743999962268813-agent-de-production-informatique-f-h"
+      },
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "71.20B",
+      "secteurActivite": "71",
+      "secteurActiviteLibelle": "Analyses, essais et inspections techniques",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/168GMPP"
+      },
+      "offresManqueCandidats": false
+    },
+    {
+      "id": "167XBVP",
+      "intitule": "Pilote activité maintenance GSMR (H/F)",
+      "description": "Nous recherchons pour notre client grand compte, un pilote activité maintenance GSMR pour un poste basé en Ile de France.\n\nObjectifs/Descriptif de mission :\nLe prestataire sera chargé de représenter PMTI pour organiser la reprise du pilotage des activités d'exploitation. Exploitation dans le cadre de l'exploitation du Réseau GSM-R.\nIl intégrera un groupe de travail qui se réunit hebdomadairement pour partager les avancées de reprise.\n\nDescription détaillée des tâches qui constituent la mission\nConcernant l'organisation de la reprise du pilotage des activités de Maintenance du Réseau GSM-R :\n-Pilotage des activités de reprise de la maintenance du réseau GSM-R :\n- Construction des contrats cadre nécessaires pour les opérations de maintenance externalisées, et de\nfournitures de matériel.\n- Etablissement d'un plan associé avec le sous projet achat\n- Etablissement et suivi du plan de documentation nécessaires à l'activité (document requis en entrée ou à\nproduire dans le cadre de l'activité).\n- Constitution de l'organisation des stocks nécessaires au MCO du GSMR\n- Participation à la stratégie de la maintenance mise en place\n- Participation à la rédaction les textes de prescription MCO\n- Rédaction en concertation avec les autres domaines les gammes opératoires de maintenance\n- Préparation de l'intégration du MCO GSM-R dans le SI DIGITOP\n- Participation aux activités communes au projet\n\nRésultats attendus et/ou livrables avec échéancier si besoin\nLes principaux livrables attendus au titre de la mission sont les suivants :\n- Reportings de l'état d'avancement du contrat des prestations externes nécessaires au MCO GSMR\n- Reportings de l'état d'avancement de l'organisation des stocks nécessaires au MCO GSMR\n- Reportings de l'état d'avancement de la constitution des stocks nécessaires au MCO GSMR\n- REX.\n\nCompétences demandées:\nLe prestataire doit être expérimenté dans le domaine du GSMR, connaître les équipements et les opérations de maintenance. Avoir assurer des missions de gestion de stocks nationaux en plus de son profil de chef de projet.",
+      "dateCreation": "2024-01-17T18:56:32.000Z",
+      "dateActualisation": "2024-02-01T12:09:30.000Z",
+      "lieuTravail": {
+        "libelle": "75 - PARIS 08",
+        "latitude": 48.873635,
+        "longitude": 2.3116,
+        "codePostal": "75008",
+        "commune": "75108"
+      },
+      "romeCode": "M1810",
+      "romeLibelle": "Production et exploitation de systèmes d'information",
+      "appellationlibelle": "Pilote de ressources informatiques",
+      "entreprise": {
+        "nom": "CIORANE",
+        "description": "CIORANE a été créée en 1996.\nOutre son activité classique d'ESN/SSII, Ciorane a une activité \"sociale\" inscrite dans son ADN depuis sa fondation. Son modèle repose sur la notion d'employabilité.\nIl s'agit d'accompagner les informaticiens en recherche d'emploi vers l'acquisition continue de compétences techniques et de valoriser les potentiels nécessaires à l'amélioration de leur employabilité.",
+        "logo": "https://entreprise.pole-emploi.fr/static/img/logos/HcBZfFIG1GT1p45uAa1Ljidp7TuZQHaL.png",
+        "url": "http://www.ciorane.com",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "Contrat à durée indéterminée",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "6 ans",
+      "competences": [
+        {
+          "code": "102175",
+          "libelle": "Réaliser la maintenance de premier niveau",
+          "exigence": "E"
+        },
+        {
+          "code": "109971",
+          "libelle": "Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives",
+          "exigence": "E"
+        },
+        {
+          "code": "109973",
+          "libelle": "Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",
+          "exigence": "E"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 47000,00 Euros à 48000,00 Euros sur 12 mois"
+      },
+      "dureeTravailLibelle": "35H Travail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "CIORANE - Mme Chantal SERENE",
+        "coordonnees1": "Veuillez-vous connecter à la plateforme de Salons en ligne de recrutement de Pôle emploi :",
+        "coordonnees2": "https://salonenligne.pole-emploi.fr/candidat/?salonId=2611&standId=36160&offreId=167XBVP"
+      },
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "deplacementCode": "1",
+      "deplacementLibelle": "Jamais",
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "62.02A",
+      "secteurActivite": "62",
+      "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Être à l'écoute, faire preuve d'empathie",
+          "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
+        },
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        },
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        }
+      ],
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/167XBVP"
+      },
+      "offresManqueCandidats": true
+    },
+    {
+      "id": "167XBFD",
+      "intitule": "Pilote activité maintenance GSMR (H/F)",
+      "description": "Nous recherchons pour notre client grand compte, un pilote activité maintenance GSMR pour un poste basé en Ile de France.\n\nObjectifs/Descriptif de mission :\nLe prestataire sera chargé de représenter PMTI pour organiser la reprise du pilotage des activités d'exploitation. Exploitation dans le cadre de l'exploitation du Réseau GSM-R.\nIl intégrera un groupe de travail qui se réunit hebdomadairement pour partager les avancées de reprise.\n\nDescription détaillée des tâches qui constituent la mission\nConcernant l'organisation de la reprise du pilotage des activités de Maintenance du Réseau GSM-R :\n-Pilotage des activités de reprise de la maintenance du réseau GSM-R :\n- Construction des contrats cadre nécessaires pour les opérations de maintenance externalisées, et de\nfournitures de matériel.\n- Etablissement d'un plan associé avec le sous projet achat\n- Etablissement et suivi du plan de documentation nécessaires à l'activité (document requis en entrée ou à\nproduire dans le cadre de l'activité).\n- Constitution de l'organisation des stocks nécessaires au MCO du GSMR\n- Participation à la stratégie de la maintenance mise en place\n- Participation à la rédaction les textes de prescription MCO\n- Rédaction en concertation avec les autres domaines les gammes opératoires de maintenance\n- Préparation de l'intégration du MCO GSM-R dans le SI DIGITOP\n- Participation aux activités communes au projet\n\nRésultats attendus et/ou livrables avec échéancier si besoin\nLes principaux livrables attendus au titre de la mission sont les suivants :\n- Reportings de l'état d'avancement du contrat des prestations externes nécessaires au MCO GSMR\n- Reportings de l'état d'avancement de l'organisation des stocks nécessaires au MCO GSMR\n- Reportings de l'état d'avancement de la constitution des stocks nécessaires au MCO GSMR\n- REX.\n\nCompétences demandées:\nLe prestataire doit être expérimenté dans le domaine du GSMR, connaître les équipements et les opérations de maintenance. Avoir assurer des missions de gestion de stocks nationaux en plus de son profil de chef de projet.",
+      "dateCreation": "2024-01-17T18:05:30.000Z",
+      "dateActualisation": "2024-02-01T12:09:47.000Z",
+      "lieuTravail": {
+        "libelle": "75 - PARIS 08",
+        "latitude": 48.873635,
+        "longitude": 2.3116,
+        "codePostal": "75008",
+        "commune": "75108"
+      },
+      "romeCode": "M1810",
+      "romeLibelle": "Production et exploitation de systèmes d'information",
+      "appellationlibelle": "Pilote de ressources informatiques",
+      "entreprise": {
+        "nom": "CIORANE",
+        "description": "CIORANE a été créée en 1996.\nOutre son activité classique d'ESN/SSII, Ciorane a une activité \"sociale\" inscrite dans son ADN depuis sa fondation. Son modèle repose sur la notion d'employabilité.\nIl s'agit d'accompagner les informaticiens en recherche d'emploi vers l'acquisition continue de compétences techniques et de valoriser les potentiels nécessaires à l'amélioration de leur employabilité.",
+        "logo": "https://entreprise.pole-emploi.fr/static/img/logos/HcBZfFIG1GT1p45uAa1Ljidp7TuZQHaL.png",
+        "url": "http://www.ciorane.com",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "Contrat à durée indéterminée",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "6 ans",
+      "competences": [
+        {
+          "code": "102175",
+          "libelle": "Réaliser la maintenance de premier niveau",
+          "exigence": "E"
+        },
+        {
+          "code": "109971",
+          "libelle": "Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives",
+          "exigence": "E"
+        },
+        {
+          "code": "109973",
+          "libelle": "Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",
+          "exigence": "E"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 47000,00 Euros à 48000,00 Euros sur 12 mois"
+      },
+      "dureeTravailLibelle": "35H Travail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "CIORANE - Mme Chantal SERENE",
+        "coordonnees1": "Veuillez-vous connecter à la plateforme de Salons en ligne de recrutement de Pôle emploi :",
+        "coordonnees2": "https://salonenligne.pole-emploi.fr/candidat/?salonId=2611&standId=36160&offreId=167XBFD"
+      },
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "deplacementCode": "1",
+      "deplacementLibelle": "Jamais",
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "62.02A",
+      "secteurActivite": "62",
+      "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Être à l'écoute, faire preuve d'empathie",
+          "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
+        },
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        },
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        }
+      ],
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/167XBFD"
+      },
+      "offresManqueCandidats": true
+    },
+    {
+      "id": "167VRSH",
+      "intitule": "Technicien(ne) de l'Assistance informatique (H/F)",
+      "description": "La Direction de l'Innovation Technologique et du Système d'Information (DITSI) comprend les secteurs d'activités suivants : \n- Assistance informatique et exploitation (15 agents) -Support fonctionnel (11 agents) \n-Administratif (5 agents) \n-Innovation-Recherche (4 agents) \n-Pôle cybersécurité/réseau et protection des données (6 agents) \n-Pôle téléphonie fixe et mobile : Assure la maintenance préventive et curative des réseaux de téléphonie et des terminaux sur l'ensemble de l'établissement. (3 agents) \nLa DITSI a pour mission d'assurer la sécurité et le bon fonctionnement du système d'information (SI) ainsi que son développement en cohérence avec les stratégies nationales et régionales. \nPlus précisément, l'équipe de la Direction de l'Innovation Technologique et du Système d'Information se veut proche des utilisateurs, des patients/résidents et/ou des usagers pour lesquels elle œuvre quotidiennement en veillant à la sécurisation du système d'information ainsi qu'à son évolution dans le cadre de l'amélioration de la qualité de leur prise en charge. \nA cet effet, la DITSI a en charge, notamment, l'opérationnalité de plus de 200 applications, de la supervision d'une architecture technologique moderne, efficiente et sécurisée (plusieurs Data Center, cœurs de réseaux, ) tout en assurant une veille technologique active. \nLa DITSI est une direction fonctionnelle dynamique qui travaille en étroite collaboration avec l'ensemble des services du GHU Paris (de soins, administratifs, techniques et généraux). Elle participe activement aux projets territoriaux tels que le DMP et Terresanté mais également, sur des projets de Recherche Européens comme le RHU PSYCARE.\n\nInterventions sur les postes de travail : \n- Administrer, paramétrer et maintenir le parc des systèmes d'information, et y assurer la sécurité ; \n- Installer, configurer, paramétrer et tester un poste de travail, un système, un logiciel, un composant ou un périphérique ; \n- Diagnostiquer les dysfonctionnements, les pannes, les incidents réseau, le défaut des matériaux, des équipements et des applications ;\n- Intervention sur site ou en prise de main à distance ; \n- Administration et création de comptes d'applications divers ;\n- Masteriser les postes informatiques ; \n- Saisir les demandes, incidents et actions réalisées dans le logiciel de GMAO (GLPI) ; \n- Renseigner l'inventaire du parc matériel ;\n- Respecter les procédures opérationnelles ;\n- Former et conseiller les utilisateurs dans son domaine de compétence.\n- Savoir effectuer/modifier la configuration réseau d'un poste de travail (adresse IP, passerelle, masque de sous-réseau, entrées DNS, DHCP)\n- Prise et traitement d'appels à la hotline par roulement\n  \nCompétences requises :\n- Lecture et interprétation de plans et de schémas (flux de données, cartographie des applications, etc) \n- Connaissance de l'architecture d'un poste de travail \n- Connaissances des environnements : Windows, (Mac OS x serait un plus), Office 365, Active Directory, etc \n- Connaissance des logiciels de GMAO (GLPI) \n- Connaissance du modèle OSI \n- Notions de bases des réseaux informatiques et des technologies Wifi  TCP\\IP, DHCP, DNS Rédaction de documents divers (procédures,  ). \n   \nLa présentation de certifications dans les domaines postes de travail et réseau est un plus. \nLe technicien doit être capable d'instruire et de prioriser les demandes en fonction du type d'intervention, du métier, et/ou de l'application. Il œuvre pour l'amélioration de la qualité du service rendu au sein de l'établissement.\nL'organisation des interventions et le pragmatisme sont les principales qualités du technicien d'assistance informatique. \nLa connaissance du milieu hospitalier et de ses différents métiers est souhaitable.\nTélétravail -  sous conditions",
+      "dateCreation": "2024-01-17T09:14:25.000Z",
+      "dateActualisation": "2024-02-01T14:20:52.000Z",
+      "lieuTravail": {
+        "libelle": "75 - PARIS 14",
+        "latitude": 48.829706,
+        "longitude": 2.322894,
+        "codePostal": "75014",
+        "commune": "75114"
+      },
+      "romeCode": "M1810",
+      "romeLibelle": "Production et exploitation de systèmes d'information",
+      "appellationlibelle": "Technicien / Technicienne informatique",
+      "entreprise": {
+        "nom": "GROUPE HOSPITALIER UNIVERSITAIRE PARIS -",
+        "description": "Le Groupe Hospitalier Universitaire Paris psychiatrie & neurosciences est né le 1er janvier 2019 des rapprochements des hôpitaux Sainte-Anne, Maison Blanche et Perray-Vaucluse.  Leader dans le soin, l'enseignement et la recherche portant sur les maladies mentales et le système nerveux, le GHU Paris emploie 5600 hospitaliers répartis dans 100 sites parisiens, ainsi que des unités à dimension médico-sociale dans le 91 et le 93.",
+        "logo": "https://entreprise.pole-emploi.fr/static/img/logos/dziQ1Dx5njwy2McBXbWpX9Kc3LKL2zda.png",
+        "url": "https://www.ghu-paris.fr/fr/toutes-nos-offres-demploi",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "Contrat à durée indéterminée",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "formations": [
+        {
+          "codeFormation": "31051",
+          "domaineLibelle": "maintenance assistance informatique",
+          "niveauLibelle": "Bac+2 ou équivalents",
+          "exigence": "S"
+        },
+        {
+          "codeFormation": "31081",
+          "domaineLibelle": "gestion parc informatique",
+          "niveauLibelle": "Bac+2 ou équivalents",
+          "exigence": "E"
+        }
+      ],
+      "permis": [
+        {
+          "libelle": "B - Véhicule léger",
+          "exigence": "S"
+        }
+      ],
+      "competences": [
+        {
+          "code": "102175",
+          "libelle": "Réaliser la maintenance de premier niveau",
+          "exigence": "S"
+        },
+        {
+          "code": "109971",
+          "libelle": "Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives",
+          "exigence": "S"
+        },
+        {
+          "code": "109973",
+          "libelle": "Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Mensuel de 2100,00 Euros à 2500,00 Euros sur 12 mois",
+        "complement1": "Restauration",
+        "complement2": "CE"
+      },
+      "dureeTravailLibelle": "37H30 Travail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "GROUPE HOSPITALIER UNIVERSITAIRE PARIS - - Mme Anita DIJOUX",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/167VRSH",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/167VRSH"
+      },
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "deplacementCode": "3",
+      "deplacementLibelle": "Fréquents Zone départementale",
+      "qualificationCode": "7",
+      "qualificationLibelle": "Technicien",
+      "codeNAF": "86.10Z",
+      "secteurActivite": "86",
+      "secteurActiviteLibelle": "Activités hospitalières",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Travailler en équipe",
+          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
+        },
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        },
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        }
+      ],
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/167VRSH"
+      },
+      "offresManqueCandidats": false
+    },
+    {
+      "id": "167VLPK",
+      "intitule": "Technicien Support (H/F)",
+      "description": "1. Fournir un support technique de premier niveau aux utilisateurs par téléphone, e-mail et en personne.\n2. Diagnostiquer et résoudre les problèmes matériels et logiciels sur les ordinateurs de bureau, portables et les appareils mobiles.\n3. Installer, configurer et entretenir les systèmes d'exploitation, les applications logicielles et les composants matériels.\n4. Participer à la configuration et au support des outils de visioconférence et de collaboration.\n5. Documenter et tenir des registres précis de toutes les activités de support et des solutions apportées.\n6. Contribuer à l'élaboration et à l'amélioration des politiques et procédures IT.\n7. Fournir des formations et des conseils aux utilisateurs sur les meilleures pratiques et l'utilisation efficace des ressources IT.\n8. Remonter les problèmes techniques complexes aux équipes appropriées et suivre leur résolution.\n\n\nExigences :\n- Diplôme en Informatique, Technologie de l'Information ou domaine connexe.\n- Expérience avérée dans un rôle similaire de support IT.\n- Maîtrise de l'anglais et du français, à l'oral et à l'écrit.\n- Solide connaissance des systèmes d'exploitation (Windows) et des logiciels de productivité.\n- Excellentes compétences en résolution de problèmes et en communication.\n- Capacité à travailler de manière autonome et en équipe dans un environnement dynamique.",
+      "dateCreation": "2024-01-16T17:54:48.000Z",
+      "dateActualisation": "2024-01-31T14:25:09.000Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris (Dept.)"
+      },
+      "romeCode": "M1810",
+      "romeLibelle": "Production et exploitation de systèmes d'information",
+      "appellationlibelle": "Technicien / Technicienne informatique",
+      "entreprise": {
+        "nom": "NTT CORPORATE",
+        "description": "NTT CORPORATE, créée en 2006, en pleine croissance.\n\nDomaine de compétences : Infrastructures, Production, Conception et Développement.",
+        "url": "http://www.nttcorporate.com",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "Contrat à durée indéterminée",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "3 ans",
+      "langues": [
+        {
+          "libelle": "Anglais",
+          "exigence": "E"
+        }
+      ],
+      "competences": [
+        {
+          "code": "102175",
+          "libelle": "Réaliser la maintenance de premier niveau",
+          "exigence": "E"
+        },
+        {
+          "code": "109971",
+          "libelle": "Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives",
+          "exigence": "E"
+        },
+        {
+          "code": "109973",
+          "libelle": "Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",
+          "exigence": "E"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 25000,00 Euros à 28000,00 Euros sur 12 mois",
+        "complement1": "Primes",
+        "complement2": "Restauration"
+      },
+      "dureeTravailLibelle": "35H Travail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "NTT CORPORATE - M. Toan NGUYEN",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/167VLPK",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/167VLPK"
+      },
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "deplacementCode": "1",
+      "deplacementLibelle": "Jamais",
+      "qualificationCode": "7",
+      "qualificationLibelle": "Technicien",
+      "codeNAF": "62.02A",
+      "secteurActivite": "62",
+      "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Être à l'écoute, faire preuve d'empathie",
+          "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
+        },
+        {
+          "libelle": "Faire preuve d'autonomie",
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
+        },
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        }
+      ],
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/167VLPK"
+      },
+      "offresManqueCandidats": false
+    },
+    {
+      "id": "167TYPM",
+      "intitule": "Technicien informatique - Contrôle d'accès (H/F)",
+      "description": "Crescendo Lyon Brotteaux, Agence d'Emploi, recrute pour le compte de l'un de ses clients, spécialisé dans le domaine de la sécurité, un Technicien informatique - Contrôle d'accès H/F.\n\nVos missions seront :\n- Installation et maintenance de réseaux (VLAN, VPN )\n- Mise à jour de bases de données (SQL Server) \n- Sécurisation des réseaux et des données\n- Utilisation d'outils de CAO (Autocad)\n\nDurée hebdomadaire de 39H00\nSalaire : 2800 à 3000€ brut mensuel\nAvantages : panier repas de 12€ net, véhicule de fonction, téléphone, ordinateur portable.\nLocalisation : PARIS\n\nProfil recherché :\n\nIssu(e) d'une formation Bac Pro à Bts Électrotechnique ou Informatique, vous justifiez d'une première expérience professionnelle sur un poste similaire (alternance comprise). \n\nVous possédez des connaissances en électronique de base ainsi que dans l'électricité (courant faible). \n\nVous êtes doté d'un excellent relationnel, êtes autonome, organisé(e) et rigoureux/se.\n\nVous avez des connaissances en anglais qui vous permettront de lire les fiches techniques.",
+      "dateCreation": "2024-01-16T14:57:40.000Z",
+      "dateActualisation": "2024-01-31T09:36:41.000Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris (Dept.)"
+      },
+      "romeCode": "M1810",
+      "romeLibelle": "Production et exploitation de systèmes d'information",
+      "appellationlibelle": "Technicien / Technicienne informatique",
+      "entreprise": {
+        "nom": "CRESCENDO",
+        "description": "Agence de travail temporaire",
+        "url": "http://crescendo-emploi.com",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "MIS",
+      "typeContratLibelle": "Mission intérimaire - 5 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "1 an",
+      "permis": [
+        {
+          "libelle": "B - Véhicule léger",
+          "exigence": "E"
+        }
+      ],
+      "salaire": {
+        "libelle": "Mensuel de 2800,00 Euros à 3000,00 Euros sur 12 mois",
+        "complement1": "Véhicule",
+        "complement2": "Chèque repas"
+      },
+      "dureeTravailLibelle": "39H Travail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "CRESCENDO - Mme Justine GRONDIN",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/167TYPM",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/167TYPM"
+      },
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "deplacementCode": "3",
+      "deplacementLibelle": "Fréquents Zone nationale",
+      "qualificationCode": "7",
+      "qualificationLibelle": "Technicien",
+      "codeNAF": "78.20Z",
+      "secteurActivite": "78",
+      "secteurActiviteLibelle": "Activités des agences de travail temporaire",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/167TYPM"
+      },
+      "offresManqueCandidats": false
+    },
+    {
+      "id": "167JTSL",
+      "intitule": "Technicien / Technicienne informatique",
+      "description": "Sous la responsabilité du Responsable d'exploitation informatique, vous assurez le support des matériels et logiciels informatiques au sein d'une équipe composée du gestionnaire de parc et d'un alternant.\n\nVos missions sont les suivantes :\n\n- Déploiement et Maintenance des équipements bureautiques au sein de l'établissement,\n\n- Déploiement et Maintenance des logiciels applicatifs,\n\n- Gestion de l'inventaire du Parc informatique,\n\n- Suivi et création des procédures helpdesk et utilisateurs,\n\n- Suivi quotidien des demandes d'assistances via l'outil de ticket GLPI (déclaration, qualification et suivi des incidents),\n\n- Maintenance curative et mise à jour des ordinateurs du Parc Informatique,\n\n- Assistance aux utilisateurs dans la résolution de leurs problèmes informatiques.\n\nVous agissez de manière autonome et rigoureuse dans le cadre des procédures mises en place. Votre sens du contact sera un atout pour maintenir de bonnes relations de travail avec les utilisateurs.",
+      "dateCreation": "2024-01-09T10:29:32.000Z",
+      "dateActualisation": "2024-02-01T14:37:03.000Z",
+      "lieuTravail": {
+        "libelle": "75 - PARIS 19",
+        "latitude": 48.887243,
+        "longitude": 2.387937,
+        "codePostal": "75019",
+        "commune": "75119"
+      },
+      "romeCode": "M1810",
+      "romeLibelle": "Production et exploitation de systèmes d'information",
+      "appellationlibelle": "Technicien / Technicienne informatique",
+      "entreprise": {
+        "nom": "LA CITE DE LA MUSIQUE - PHILHARMONIE DE",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "Contrat à durée indéterminée",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "3 ans",
+      "formations": [
+        {
+          "niveauLibelle": "Bac+2 ou équivalents",
+          "commentaire": "Informatique",
+          "exigence": "S"
+        }
+      ],
+      "competences": [
+        {
+          "code": "102175",
+          "libelle": "Réaliser la maintenance de premier niveau",
+          "exigence": "S"
+        },
+        {
+          "code": "109971",
+          "libelle": "Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives",
+          "exigence": "S"
+        },
+        {
+          "code": "109973",
+          "libelle": "Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",
+          "exigence": "S"
+        },
+        {
+          "libelle": "Architecture matérielle (composant informatique)",
+          "exigence": "S"
+        },
+        {
+          "libelle": "Logiciels applicatifs de la suite Microsoft Office",
+          "exigence": "S"
+        },
+        {
+          "libelle": "MAC (IOS, MAC OS)",
+          "exigence": "S"
+        },
+        {
+          "libelle": "Télé-déploiement de logiciels. (ZenWorks)",
+          "exigence": "S"
+        },
+        {
+          "libelle": "Windows 10 (installation, paramétrage, résolution",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Mensuel de 2800,00 Euros à 3000,00 Euros sur 12 mois"
+      },
+      "dureeTravailLibelle": "35H Travail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "Pôle Emploi Spécialisé AVS Placement Techniciens",
+        "coordonnees1": "21 AVENUE Du Stade de France",
+        "coordonnees2": "93210 ST DENIS",
+        "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/167JTSL"
+      },
+      "agence": {
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/167JTSL"
+      },
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "90.04Z",
+      "secteurActivite": "90",
+      "secteurActiviteLibelle": "Gestion de salles de spectacles",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/167JTSL"
+      },
+      "offresManqueCandidats": false
+    },
+    {
+      "id": "166QWBW",
+      "intitule": "Technicien(cienne) informatique - Paris 12ième    (H/F)",
+      "description": "Dans le but d'intégrer le support informatique d'une compétition sportive internationale, l'entreprise SECURINFOR est à la recherche de techniciens informatique.\n\nNiveau 1 / Niveau 2 / Team Leader\n\nSur différents sites à Paris / Pour des CDD de 1 à 6 mois.\n\nN'hésitez pas à postuler, pour faire partie de cette expérience unique.",
+      "dateCreation": "2023-12-21T10:24:41.000Z",
+      "dateActualisation": "2024-01-31T23:18:55.000Z",
+      "lieuTravail": {
+        "libelle": "75 - PARIS 12",
+        "latitude": 48.833494,
+        "longitude": 2.415411,
+        "codePostal": "75012",
+        "commune": "75112"
+      },
+      "romeCode": "M1810",
+      "romeLibelle": "Production et exploitation de systèmes d'information",
+      "appellationlibelle": "Technicien / Technicienne informatique",
+      "entreprise": {
+        "nom": "SECURINFOR",
+        "description": "SECURINFOR est une société française présente depuis 1986 dans le domaine des métiers IT. \nA l'origine mainteneur hardware, l'Entreprise a su adapter et compléter ses offres de services principalement orientées vers l exploitation des Infrastructures IT.\nDepuis sa création, la volonté de la Direction de SECURINFOR, a été de valoriser l'Entreprise par son expertise, l'implication de ses collaborateurs et l'excellence de ses prestations.",
+        "url": "https://www.securinfor.fr/",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "Contrat à durée déterminée - 1 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "competences": [
+        {
+          "code": "102175",
+          "libelle": "Réaliser la maintenance de premier niveau",
+          "exigence": "S"
+        },
+        {
+          "code": "109971",
+          "libelle": "Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives",
+          "exigence": "S"
+        },
+        {
+          "code": "109973",
+          "libelle": "Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 22000,00 Euros à 28000,00 Euros sur 12 mois",
+        "complement1": "Primes",
+        "complement2": "Chèque repas"
+      },
+      "dureeTravailLibelle": "35H Travail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "SECURINFOR - Mme Julie ALLALI",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/166QWBW",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/166QWBW"
+      },
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "qualificationCode": "7",
+      "qualificationLibelle": "Technicien",
+      "codeNAF": "70.22Z",
+      "secteurActivite": "70",
+      "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Être à l'écoute, faire preuve d'empathie",
+          "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
+        },
+        {
+          "libelle": "Faire preuve d'autonomie",
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
+        },
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        }
+      ],
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.pole-emploi.fr/offres/recherche/detail/166QWBW"
+      },
+      "offresManqueCandidats": false
+    }
+  ],
+  "filtresPossibles": [
+    {
+      "filtre": "typeContrat",
+      "agregation": [
+        {
+          "valeurPossible": "CDD",
+          "nbResultats": 7
+        },
+        {
+          "valeurPossible": "CDI",
+          "nbResultats": 66
+        },
+        {
+          "valeurPossible": "MIS",
+          "nbResultats": 4
+        }
+      ]
+    },
+    {
+      "filtre": "experience",
+      "agregation": [
+        {
+          "valeurPossible": "0",
+          "nbResultats": 5
+        },
+        {
+          "valeurPossible": "1",
+          "nbResultats": 29
+        },
+        {
+          "valeurPossible": "2",
+          "nbResultats": 36
+        },
+        {
+          "valeurPossible": "3",
+          "nbResultats": 7
+        }
+      ]
+    },
+    {
+      "filtre": "qualification",
+      "agregation": [
+        {
+          "valeurPossible": "0",
+          "nbResultats": 22
+        },
+        {
+          "valeurPossible": "9",
+          "nbResultats": 8
+        },
+        {
+          "valeurPossible": "X",
+          "nbResultats": 47
+        }
+      ]
+    },
+    {
+      "filtre": "natureContrat",
+      "agregation": [
+        {
+          "valeurPossible": "E1",
+          "nbResultats": 76
+        },
+        {
+          "valeurPossible": "E2",
+          "nbResultats": 1
+        }
+      ]
+    }
+  ]
+}

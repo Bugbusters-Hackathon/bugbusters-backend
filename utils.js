@@ -21,6 +21,9 @@ export const filterTheJobArray = (array) => {
 
 export const sendRandomdlyAnumberOfElements = (number, dataFilter) => {
 
+    if (!dataFilter.length) {
+        return [];
+    }
     let toSend = [];
     let numberToFilter = (number != undefined) ? (number <= 10 ? number : 10) : 1
     for (let i = 0; i < numberToFilter; i++) {
